@@ -9,6 +9,6 @@
 * Warehouse : Azure Data Factory , Azure Databricks
 * Credeintials Storage : Azure Key Vault
 
-### Solution Artitecture
+### Solution Architecture
 
 ![image](Project_Archiecture.jpg)
